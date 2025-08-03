@@ -1,72 +1,232 @@
-<!-- Profile Header -->
-<h1 align="center">Hi, I'm Dipu Mia 👋</h1>
-<h3 align="center">Full Stack Developer | React • Next.js • Express • MERN • TypeScript</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-React-blue?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/Code-Next.js-black?style=flat-square&logo=next.js" />
-  <img src="https://img.shields.io/badge/Code-Express-303030?style=flat-square&logo=express" />
-  <img src="https://img.shields.io/badge/Code-TypeScript-007ACC?style=flat-square&logo=typescript" />
-  <img src="https://img.shields.io/badge/Code-MongoDB-4EA94B?style=flat-square&logo=mongodb" />
-  <img src="https://img.shields.io/badge/Stack-MERN-3DDC84?style=flat-square&logo=stackexchange" />
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=200&section=header&text=Dipu%20Mia&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35" />
+
+<!-- Dynamic Typing Animation -->
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Specialist;TypeScript+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
 </p>
 
+<!-- Professional Badges with Animation -->
+<p>
+  <img src="https://img.shields.io/badge/💻_Developer-Full_Stack-4ECDC4?style=for-the-badge&labelColor=2C3E50" />
+  <img src="https://img.shields.io/badge/🚀_Focus-Modern_Web_Apps-FF6B6B?style=for-the-badge&labelColor=2C3E50" />
+  <img src="https://img.shields.io/badge/🌟_Experience-3+_Years-45B7D1?style=for-the-badge&labelColor=2C3E50" />
+</p>
+
+</div>
+
 ---
 
-## 🚀 About Me
+## 🎯 About Me
 
-- 💻 I build scalable, performant web apps with modern JavaScript frameworks.
-- 🛠️ Focused on crafting seamless user experiences from front-end to back-end.
-- 🌱 Currently learning advanced cloud and DevOps (Docker, AWS).
-- 🤝 Open to collaboration on exciting projects and open-source.
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+```javascript
+const dipu = {
+    name: "Dipu Mia",
+    role: "Full Stack Developer",
+    location: "Bangladesh 🇧🇩",
+    experience: "3+ years",
+    
+    techStack: {
+        frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+        backend: ["Node.js", "Express.js", "MongoDB", "PostgreSQL"],
+        tools: ["Docker", "Git", "AWS", "Vercel"],
+        currently_learning: ["GraphQL", "Docker", "Microservices"]
+    },
+    
+    passion: "Building scalable web applications that solve real problems",
+    motto: "Clean code, beautiful UI, seamless UX"
+};
+```
+
+<br clear="both"/>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Frontend Mastery
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,sass" />
+</p>
+
+### Backend Excellence  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,prisma,graphql" />
+</p>
+
+### Development Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,aws,vercel,figma,vscode" />
+</p>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dipu67&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4ECDC4&icon_color=FF6B6B&text_color=ffffff" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dipu67&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=ffffff" />
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dipu67&theme=tokyonight&hide_border=true&background=0D1117&stroke=4ECDC4&ring=FF6B6B&fire=45B7D1&currStreakLabel=4ECDC4" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🏆 Featured Projects
+
+<div align="center">
+
+<table border="0" align="center">
+<tr>
+<td width="50%" align="center">
+
+**🚀 E-Commerce Platform**
+<br><br>
+<img src="https://via.placeholder.com/300x200/4ECDC4/ffffff?text=MERN+E-Commerce" width="300" />
+<br><br>
+**Tech:** React, Node.js, MongoDB, Stripe
+<br>
+*Full-featured e-commerce with payment integration*
+
+</td>
+<td width="50%" align="center">
+
+**📱 Task Management App**
+<br><br>
+<img src="https://via.placeholder.com/300x200/FF6B6B/ffffff?text=Task+Manager" width="300" />
+<br><br>
+**Tech:** Next.js, TypeScript, PostgreSQL
+<br>
+*Collaborative project management tool*
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+**🌐 Portfolio Website**
+<br><br>
+<img src="https://via.placeholder.com/300x200/45B7D1/ffffff?text=Portfolio+Site" width="300" />
+<br><br>
+**Tech:** Next.js, Tailwind CSS, Framer Motion
+<br>
+*Responsive portfolio with smooth animations*
+
+</td>
+<td width="50%" align="center">
+
+**📊 Analytics Dashboard**
+<br><br>
+<img src="https://via.placeholder.com/300x200/9B59B6/ffffff?text=Analytics+Dashboard" width="300" />
+<br><br>
+**Tech:** React, D3.js, Express, MongoDB
+<br>
+*Real-time data visualization dashboard*
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🎨 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dipu67&bg_color=0D1117&color=4ECDC4&line=FF6B6B&point=45B7D1&area=true&hide_border=true" width="100%"/>
+</div>
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
 
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <a href="mailto:dipu.webdev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/dipu-mia">
+    <img src="https://img.shields.io/badge/LinkedIn-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/dipu_dev">
+    <img src="https://img.shields.io/badge/Twitter-45B7D1?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://dipu-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 </p>
 
----
+### 💼 Open for Opportunities
+- 🔥 Full-time positions
+- 🚀 Freelance projects  
+- 🤝 Open source collaboration
+- 📚 Mentoring & knowledge sharing
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dipu67&show_icons=true&theme=radical" alt="dipu67's github stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dipu67&theme=radical" width="48%" />
-</p>
-
----
-
-## 🚩 Featured Projects
-
-- [Project One](#) – Description of project one.
-- [Project Two](#) – Description of project two.
-- [Project Three](#) – Description of project three.
+</div>
 
 ---
 
-## 📫 Connect With Me
+<div align="center">
 
-<p>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/dipu67"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-</p>
-
----
+### ⚡ Quick Facts
 
 <details>
-  <summary>📊 More About My Work</summary>
-  <ul>
-    <li>🌟 Open source contributor</li>
-    <li>🧠 Lifelong learner</li>
-    <li>⚡ Fun fact: I love solving coding challenges and exploring new tech!</li>
-  </ul>
+<summary>🎯 <b>Current Focus</b></summary>
+<br>
+<ul align="left">
+  <li>🔭 Working on a SaaS project management platform</li>
+  <li>🌱 Learning Docker, Kubernetes & AWS</li>
+  <li>👥 Contributing to open-source React libraries</li>
+  <li>📝 Writing technical blogs about web development</li>
+</ul>
 </details>
+
+<details>
+<summary>🏅 <b>Achievements</b></summary>
+<br>
+<ul align="left">
+  <li>🎉 50+ successful projects delivered</li>
+  <li>⭐ 100+ GitHub stars across repositories</li>
+  <li>🤝 Active contributor in developer communities</li>
+  <li>📚 Mentor for junior developers</li>
+</ul>
+</details>
+
+<details>
+<summary>🎨 <b>Beyond Code</b></summary>
+<br>
+<ul align="left">
+  <li>🎵 Music enthusiast & guitar player</li>
+  <li>📖 Tech blogger & content creator</li>
+  <li>🌱 Advocate for clean, sustainable code</li>
+  <li>☕ Coffee-powered coding sessions</li>
+</ul>
+</details>
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=dipu67&color=4ECDC4&style=for-the-badge&label=PROFILE+VIEWS" />
+
+<!-- Animated Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=120&section=footer" />
+
+</div>
