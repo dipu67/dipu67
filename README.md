@@ -77,7 +77,7 @@ const dipu = {
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dipu67&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=ffffff" />
 
 </div>
-
+<!--
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=dipu67&theme=tokyonight&hide_border=true&background=0D1117&stroke=4ECDC4&ring=FF6B6B&fire=45B7D1&currStreakLabel=4ECDC4" alt="GitHub Streak" />
 </div>
