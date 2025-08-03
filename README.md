@@ -52,12 +52,12 @@ const dipu = {
 
 ### Frontend Mastery
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,sass" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind" />
 </p>
 
 ### Backend Excellence  
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,prisma,graphql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,mongodb,postgresql" />
 </p>
 
 ### Development Tools
