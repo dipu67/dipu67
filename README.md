@@ -154,16 +154,16 @@ const dipu = {
 <div align="center">
 
 <p>
-  <a href="mailto:dipu.webdev@gmail.com">
+  <a href="mailto:dipu.webdev@gmail.com" _blank>
     <img src="https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/dipu-mia">
+  <a href="https://linkedin.com/in/dipu-mia" _blank>
     <img src="https://img.shields.io/badge/LinkedIn-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/mddipu32">
+  <a href="https://twitter.com/mddipu32" _blank>
     <img src="https://img.shields.io/badge/Twitter-45B7D1?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://www.a24dev.me">
+  <a href="https://www.a24dev.me" _blank>
     <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
