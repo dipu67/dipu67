@@ -160,10 +160,10 @@ const dipu = {
   <a href="https://linkedin.com/in/dipu-mia">
     <img src="https://img.shields.io/badge/LinkedIn-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/dipu_dev">
+  <a href="https://twitter.com/mddipu32">
     <img src="https://img.shields.io/badge/Twitter-45B7D1?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://dipu-portfolio.vercel.app">
+  <a href="https://www.a24dev.me">
     <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
